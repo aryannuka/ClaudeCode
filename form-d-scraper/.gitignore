@@ -1,0 +1,6 @@
+# Real pull outputs (can contain thousands of rows) - don't commit these
+pulls/
+__pycache__/
+*.pyc
+.venv/
+venv/
